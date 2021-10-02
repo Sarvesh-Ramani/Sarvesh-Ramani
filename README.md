@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sarvesh
 
 ## I'm a Student, Developer and a Active Learner!!! 
-______________________________________________________________________________________________________________________________________________________________________________________
+
 <!--
 **Sarvesh-Ramani/Sarvesh-Ramani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
